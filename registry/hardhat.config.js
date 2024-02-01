@@ -24,4 +24,4 @@ module.exports = {
 
 // npx hardhat run scripts/deploy.js --network <<netowkr>>
 // npx hardhat run scripts/deploy.js --network sepolia
-//  npx hardhat verify --network sepolia 0x33304C05C5e68429E64BBA8fA6F65fCd8A218E29 "Hello, Welcome to message-dapp"
+//  npx hardhat verify --network sepolia 0xa7B6AE7004c7Ce070D92404a9e71b51c53d87dD7 "Chinasa" 23
